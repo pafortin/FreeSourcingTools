@@ -1,3 +1,12 @@
+#🌍 Global Introduction
+
+Bookmarklets are tiny programs saved as browser bookmarks. They may look scary because they start with a long line of javascript:..., but there’s nothing to fear — they’re just small snippets of code you run directly in your browser.
+
+They’re extremely simple to use: you drag the link into your bookmarks bar, click it, and the tool appears. No installation, no plugins, no admin rights. It works on any browser (Chrome, Edge, Firefox, Safari…) and always uses the font and style of your computer — one of the advantages of this lightweight approach.
+
+For recruiters and sourcers, bookmarklets are a practical way to save time and bypass unnecessary friction. In fact, they can sometimes even help you work around internal IT or DSI restrictions, since you don’t need to install anything on your machine.
+
+
 # 🔍 Googlizer_LinkedINazer
 
 A simple bookmarklet to quickly generate Google or LinkedIn profile searches from a list of names (or selected text) — and open them in bulk.
