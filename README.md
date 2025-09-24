@@ -1,4 +1,4 @@
-#🌍 Global Introduction
+# 🌍 Global Introduction
 
 Bookmarklets are tiny programs saved as browser bookmarks. They may look scary because they start with a long line of javascript:..., but there’s nothing to fear — they’re just small snippets of code you run directly in your browser.
 
